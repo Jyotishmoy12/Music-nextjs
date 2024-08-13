@@ -38,8 +38,7 @@ function FeaturedCourses(){
                     <Link href={`/courses/$slug`}></Link>
                     Learn More
                 </div> 
-
-                 </BackgroundGradient>
+                </BackgroundGradient>
                 </div>
                ))}
             </div>
